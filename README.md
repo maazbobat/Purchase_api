@@ -1,7 +1,5 @@
 # Purchase_api
 
 * Navigate into the repo `cd Purchase_api`
-* * Install the dependencies ``npm i express``
-* * Initialise the file ``npm init -y``
-* * Install the dependencies ``npm i csv-parser``
-* * Run the `index.js` file `node index`
+* Install the required dependencies by running the following command: ``npm install express csv-parser fs``
+* Once the dependencies are installed, you can start the server by running the following command: ``node server.js``
